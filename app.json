@@ -1,0 +1,12 @@
+{
+  "pages": [
+    "pages/index/index"
+  ],
+  "window": {
+    "navigationBarTitleText": "Item Spirit",
+    "viewport": {
+      "width": "device-width"
+    }
+  }
+}
+

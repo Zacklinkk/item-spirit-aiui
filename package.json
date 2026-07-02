@@ -1,0 +1,8 @@
+{
+  "name": "item-spirit-aiui",
+  "version": "0.1.0",
+  "description": "AIUI glasses client for Item Spirit proactive paper reading and full-duplex interaction.",
+  "private": true,
+  "main": "app.js",
+  "dependencies": {}
+}
